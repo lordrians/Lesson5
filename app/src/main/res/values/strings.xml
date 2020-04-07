@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson5</string>
+    <string name="nama">Kucing</string>
+    <string name="namakota">Depok</string>
+    <string name="judul">Nama Kota</string>
+    <string name="namadeveloper">"Ferrian Redhia Pratama - 4817071416"</string>
+    <string name="hintkota">masukan nama kota..</string>
+    <string name="tambah_kota">Tambah Kota</string>
+</resources>
